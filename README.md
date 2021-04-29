@@ -6,7 +6,7 @@
 
 ## Summary
 - [Description](#description)
-- [Run it yourself !](#running)
+- [Run it yourself !](#run-the-project)
 - [Project structure](#project-structure)
 
 
