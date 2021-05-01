@@ -26,8 +26,7 @@ Project structure
 ├── CHANGELOG.md
 ├── etc
 │   └── conf
-│   │   ├── properties.yml
-│   │   └── credentials.yml
+│       └── properties.yml
 │   └── docker
 │   │   └── Dockerfile
 │   └── models
