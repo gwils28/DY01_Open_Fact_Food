@@ -28,7 +28,7 @@ Project structure
 │   └── conf
 │       └── properties.yml
 │   └── docker
-│   │   └── Dockerfile
+│       └── Dockerfile
 │   └── models
 │   └── doc
 │   └── data
