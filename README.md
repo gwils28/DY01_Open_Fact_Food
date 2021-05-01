@@ -2,7 +2,6 @@
 
  - **By** : *Wilson G*
  - **Start date** : *29-04-2021*
- - **Version in production** : None
 
 ## Summary
 - [Description](#description)
@@ -26,18 +25,19 @@ Project structure
 ```
 ├── CHANGELOG.md
 ├── etc
-├── conf
-│   ├── properties.yml
-│   └── credentials.yml
-├── data
-│   └── raw_data.csv
-├── doc
-├── docker
-│   └── Dockerfile
-├── models
+│   └── conf
+│   │   ├── properties.yml
+│   │   └── credentials.yml
+│   └── docker
+│   │   └── Dockerfile
+│   └── models
+│   └── doc
+│   └── data
+│       └── raw_data.csv
 ├── notebooks
 ├── src
 ├── tests
+├── utils
 ├── LICENSE
 ├── README.md
 ├── requirements.txt

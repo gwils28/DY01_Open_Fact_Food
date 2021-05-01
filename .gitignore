@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ide
+.idea/
+
+# Data   / we ignore data file more than 1Mo
+etc/data/raw_data.csv
+
 # C extensions
 *.so
 
